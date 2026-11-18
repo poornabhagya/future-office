@@ -1,0 +1,6 @@
+{
+  "name": "Live-Work Startup House — 3D Architectural Plan",
+  "description": "Interactive 3D cutaway architectural floor plan of a modern rustic live-work startup house built from shipping containers with tropical garden and pool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
